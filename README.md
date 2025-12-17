@@ -1,1 +1,1 @@
-Capstone 3 project for skin cancer detection
+The most common cancer in the United States is skin cancer, with a prevalence of 20% by the age of 70. Early detection is essential for prompt treatment and survival. A model to predict malignant skin cancer from at-home images can accelerate the process of seeking medical support.
